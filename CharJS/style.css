@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Goudy+Bookletter+1911&display=swap');
+
+h1 {
+    display: flex; 
+    justify-content: center; 
+    margin-top: 10%;
+    font-size: 50px;
+    font-family: 'Goudy Bookletter 191', Arial, Helvetica, sans-serif;
+    color: white;
+    text-shadow: 
+    2px 2px 5px rgb(255, 99, 132);
+}
+
+.inform {
+    display: flex; 
+    justify-content: center; 
+    position: relative; 
+    height:30vh; 
+    width:30vw; 
+    margin-left: 32%; 
+    margin-top: 5%;
+}
